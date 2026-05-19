@@ -20,9 +20,9 @@ Multi-threaded Socket Control.
 il2cpp Game Support.
 Developer Info
 •
-Developer: [@REALSTARCOOL]
+Developer: [Your Name/Nickname]
 •
-Telegram Group: [(https://t.me/STARCOOLplus)]
+Telegram Group: [Your Telegram Link]
 •
 GitHub: [Your GitHub Profile Link]
 Disclaimer
