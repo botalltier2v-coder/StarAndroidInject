@@ -15,8 +15,8 @@ A powerful Android Native Injector and Mod Menu template using C++ and Kotlin.
 - il2cpp Game Support.
 
 ### 👤 Developer Info
-- **Developer:** [Your Name/Nickname]
-- **Telegram Group:** [[Your Telegram Link](https://t.me/STARCOOLplus)]
+- **Developer:** [@REALSTARCOOL]
+- **Telegram Group:** [[Channel Telegram Link](https://t.me/STARCOOLplus)]
 - **GitHub:** [Your GitHub Profile Link]
 
 ---
